@@ -10756,6 +10756,12 @@ textarea.form-control-lg {
     opacity: 0;
   }
 }
+@media (max-width: 575.98px) {
+  .hide-logo {
+    display: none;
+  }
+}
+
 .btn-rounded {
   position: relative;
   padding: 0.9375rem 4.375rem 0.9375rem 1.25rem;
