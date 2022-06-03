@@ -448,6 +448,39 @@ progress {
   display: none !important;
 }
 
+/*                         */
+/*     custom properties   */
+/*                         */
+
+
+
+.navbar-custom {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
@@ -608,12 +641,12 @@ progress {
 }
 @media (min-width: 768px) {
   .container-md, .container-sm, .container {
-    max-width: 720px;
+    max-width: 920px;
   }
 }
 @media (min-width: 992px) {
   .container-lg, .container-md, .container-sm, .container {
-    max-width: 960px;
+    max-width: 1060px;
   }
 }
 @media (min-width: 1200px) {
@@ -3911,7 +3944,7 @@ textarea.form-control-lg {
 }
 .navbar-brand {
  width: 110px !important;
-  height: auto;
+  height: auto !important;
 }
 .navbar-nav {
   display: flex;
@@ -10815,7 +10848,6 @@ textarea.form-control-lg {
 }
 @media (min-width: 992px) {
   .display-2--description {
-    font-size: 1.5rem;
     display: inline-block;
   }
 }
