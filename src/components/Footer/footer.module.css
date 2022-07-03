@@ -1,0 +1,18 @@
+.footer-social-media-container{
+    background-color: hsl(var(--clr-black));
+    color:white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-right: 6rem;
+    padding-left: 6rem;
+    min-height: 5rem;
+    align-items: center;
+}
+
+
+.socials-image{
+    height: 50px;
+    width: auto;
+}
+
